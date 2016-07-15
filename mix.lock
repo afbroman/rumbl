@@ -10,7 +10,7 @@
   "mime": {:hex, :mime, "1.0.0"},
   "phoenix": {:hex, :phoenix, "1.2.0"},
   "phoenix_ecto": {:hex, :phoenix_ecto, "2.0.2"},
-  "phoenix_html": {:hex, :phoenix_html, "2.6.1"},
+  "phoenix_html": {:hex, :phoenix_html, "2.6.2"},
   "phoenix_live_reload": {:hex, :phoenix_live_reload, "1.0.5"},
   "phoenix_pubsub": {:hex, :phoenix_pubsub, "1.0.0"},
   "plug": {:hex, :plug, "1.2.0-rc.0"},
